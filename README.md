@@ -1,2 +1,2 @@
 # Slots
-Slots game in html (Source code from https://bravenewmethod.com/2013/03/14/simple-slot-machine-with-html5/)
+Slots game in html (Source code from http://odhyan.com/blog/2011/05/slot-machine-in-javascript/)
